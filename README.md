@@ -1,3 +1,3 @@
-# Go Daven App
+# Go Daven Issues Repository
 
-The Go Daven App Project
+Here is where the issues and work items reside 
